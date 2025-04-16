@@ -1,0 +1,18 @@
+h1{
+    /*forma corta*/
+    border: rgb(110, 110, 110) solid 3px;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+}
+body{
+    background-color: grey;
+}
+#fondo{
+    background-color: bisque;
+    padding: 100px;
+}
+#noticia{
+display: none;
+}
